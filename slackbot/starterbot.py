@@ -61,29 +61,12 @@ def handle_command(command, channel):
 					"type": "button",
 					"text": {
 						"type": "plain_text",
-						"text": "Farmhouse"
-						
-					},
-					"value": "click_me_123"
-				},
-				{
-					"type": "button",
-					"text": {
-						"type": "plain_text",
-						"text": "Kin Khao"
-						
-					},
-					"value": "click_me_123"
-				},
-				{
-					"type": "button",
-					"text": {
-						"type": "plain_text",
-						"text": "Ler Ros"
+						"text": "Sim"
 						
 					},
 					"value": "click_me_123"
 				}
+				
 			]
 		}
 	]
